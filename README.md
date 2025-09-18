@@ -142,12 +142,3 @@ Each input is thoroughly validated to prevent misuse:
   * Between 1 and 10
 
 ---
-
-## ⚙️ Usage Example (Pseudocode)
-
-```clojure
-;; Registering a new site
-(register_secure_site "trusted-entity-xyz" "audited-by-xyz-labs")
-```
-
----
